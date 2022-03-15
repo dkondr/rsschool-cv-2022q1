@@ -27,7 +27,7 @@ I like of information technology, programming and everything related to computer
 ```
 
 ## **Work experience:**
-There is no practical experience in web development and programming.
+Practical experience in web development and programming is small.
 
 ![Codewarrior Profile Badges](https://www.codewars.com/users/dkondr/badges/small)
 
